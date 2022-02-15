@@ -1,4 +1,4 @@
-module github.com/fabcar_contract_api/go
+module github.com/erc20_contract_api/go
 
 go 1.13
 
